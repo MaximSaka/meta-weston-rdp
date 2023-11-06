@@ -1,25 +1,5 @@
 This README file contains information on the contents of the meta-weston-rdp layer.
 
-Please see the corresponding sections below for details.
-
-Dependencies
-============
-
-  URI: <first dependency>
-  branch: <branch name>
-
-  URI: <second dependency>
-  branch: <branch name>
-
-  .
-  .
-  .
-
-Patches
-=======
-
-
-
 # Table of Contents
 1) [Adding the meta-weston-rdp layer to your build](#AddLayer)
 2) [Launching FreeRDP](#Launch)
