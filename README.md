@@ -31,7 +31,7 @@ $ bitbake avnet-image-oob
 
 5) Once the image is built and downloaded to the board, connect to the board and edit the weston.ini file.
 The file is located here /etc/xdg/weston/weston.ini
-modify the screen share section to the following and save
+Add "modules=screen-share.so" to [core] and modify the [screen-share] section as shown bellow and save
 ```
 [core]
 ...
