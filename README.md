@@ -17,7 +17,7 @@ CORE_IMAGE_EXTRA_INSTALL:append = " \
     freerdp \
 "
 ```
-2) Copy the provided "meta-weston-rdp" folder to the sources directory
+2) Copy or clone the "meta-weston-rdp" repo folder to the sources directory
 
 3) Run the bitbake command to add the "meta-weston-rdp" layer 
 ```
